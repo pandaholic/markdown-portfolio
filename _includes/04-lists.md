@@ -1,3 +1,3 @@
-Animals
-Man
-Food
+- Animals
+- Man
+- Food
